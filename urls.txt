@@ -548,4 +548,5 @@ cl.s12.exct.net
 view.s12.exacttarget.com
 bounce.s12.exacttarget.com
 leave.s12.exacttarget.com
-*.s12.exct.net
+s12.exct.net
+
