@@ -1110,7 +1110,6 @@ gmx.co.uk
 gmx.com
 gmx.es
 gmx.fr
-google.com
 google.internal
 goto.com
 gov.ws
@@ -3706,7 +3705,6 @@ supportmeta-horizon.net
 supportmeta-horizonusa.org
 meataconnects.cfd
 casefb814915-uzsa.vercel.app
-dirvegoogle.com
 ns2.1domainregistry.com
 konto-opdatering-service.com
 whitewhalermeme.live
