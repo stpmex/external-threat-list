@@ -973,7 +973,6 @@ arminext.com
 asana.com
 asff13lows.bl=ob.core.windows.net
 avaza.com
-aws.amazon.com
 axerosolutions.com
 b2chat.io
 back.rooter
