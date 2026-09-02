@@ -2645,7 +2645,6 @@ shanroban.com
 sinergil.com
 skolaslaiks.lv
 sky.com.mx
-skype.com
 smtpsecuremails.com
 snapchat.com
 softloadup.com
@@ -2810,7 +2809,6 @@ www.ravetree.com
 www.reddit.com
 www.retrogames.cz
 www.rocket.chat
-www.skype.com
 www.snapchat.com
 www.startmail.com
 www.talkspirit.com
